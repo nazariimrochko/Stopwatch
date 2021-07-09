@@ -1,40 +1,35 @@
 const timerStyle = `text-Align:center;
                     margin:25px 0;
                     font-Size:35px;
-                    color:#00D2DB;`;
+                    color:#AFAFAF;`;
 
 const timerWrapperStyle = `
                 display:flex;
                 flex-Direction:column;
                 padding:40px;
                 width:370px;
-                height:600px;
-                background-Color:#0E1621;
-                color:#2182F5;
-                border-Style:solid;
-                border-Width:4px;
-                border-Radius:7px;
-                box-Shadow: inset 0px 0px 10px 5px #00D2DB;
-                border-Color:#0E1621;
+                height:800px;
+                color:#AFAFAF;
                 font-Family:Poppins,sans-serif;
                 `;
 
 const titleStopwatchStyle = `fontFamily:monospace;
                              font-Size:34px;            
-                             color:#2182F5;`;
+                             color:#A3A3A3;`;
 
 const button = `text-Align:center;
-                margin:0  40px;
-                width:65px;
-                height:65px;
+                margin:0 10px;
+                width:245px;
+                height:45px;
                 font-Family:Poppins,sans-serif;
                 font-Size:18px;
-                background-Color:#2182F5;
+                color:#ffffff;
+                background-Color:rgba(47,47,47,0.4);
                 border-Width:3px;
                 border-Style:solid;
-                border-Color:#0E1621;
-                border-Radius:50px;
-                box-Shadow: 0px 0px 8px 3px #00D2DB;`;
+                border-Color:#AFAFAF;
+                border-Radius:5px;
+                box-Shadow: 0px 0px 8px 3px #A0A0A0;`;
 
 const timerButtonsStyle = `display:flex;
                     justify-Content:center;`;
